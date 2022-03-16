@@ -1,13 +1,11 @@
-# Project Name
-
-> Places of Kenya.
-
+# Places of Kenya
+> This is a website build to post events, accommodation and safaris around Kenya. It uses contentful as a backend.
 
 ## Built With
 
-- Javascript js
+- React js
 - Bootstrap
-- Contentful 
+- Contentful CMS
 
 ## Live Demo
 
